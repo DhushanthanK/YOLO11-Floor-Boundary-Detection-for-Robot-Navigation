@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a trained YOLOv5 model designed to detect floor boundaries in a given environment. The goal is to assist robotic navigation by identifying the ground boundaries, allowing for effective obstacle avoidance and path planning.
 
+![output](https://github.com/user-attachments/assets/48ed75d8-b77e-491f-b3f2-37fa5ef263d1)
+
 ## Features
 - **Object Detection**: Detects bounding boxes for floor boundaries using the YOLO11 architecture.
 - **Training Pipeline**: Included script for training the YOLO11 model on custom datasets.

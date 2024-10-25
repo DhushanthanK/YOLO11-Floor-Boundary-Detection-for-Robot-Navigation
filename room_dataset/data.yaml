@@ -1,0 +1,13 @@
+train: /Users/dhushanthankumararatnam/Documents/DMIE_RE/DMIE_AMR/Floor_Detection_Yolo11/room_dataset/train/images
+val: /Users/dhushanthankumararatnam/Documents/DMIE_RE/DMIE_AMR/Floor_Detection_Yolo11/room_dataset/valid/images
+test: /Users/dhushanthankumararatnam/Documents/DMIE_RE/DMIE_AMR/Floor_Detection_Yolo11/room_dataset/test/images
+
+nc: 1
+names: ["floor"]
+
+roboflow:
+  workspace: aparna-8jdby
+  project: room-lyc7i
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/aparna-8jdby/room-lyc7i/dataset/2
